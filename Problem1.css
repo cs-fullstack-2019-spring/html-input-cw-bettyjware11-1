@@ -1,0 +1,55 @@
+body {
+    background: gray;
+    margin: 5% 15% 5% 15%;
+    /*display: inline-block;*/
+
+
+}
+
+header,section
+{
+    background: mediumorchid;
+
+}
+
+.input {
+    width: 100%;
+}
+
+.Section2 {
+
+    color: darkorchid ;
+    /*width: 100%;*/
+
+
+}
+
+h1
+{ color: white;
+
+
+
+}
+
+.container
+
+{
+    margin: 1.5% 15%;
+
+
+}
+
+
+
+body
+{
+
+    text-align: center;
+}
+
+footer {
+    color: white;
+    margin: 5% 15%
+
+
+}
